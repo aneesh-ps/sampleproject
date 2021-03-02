@@ -2,5 +2,5 @@ this is the second file edited by aneesh ps
 this is added on the master
 this is added on the is branch
 
-this file is edited for rebase conflict
+this is solved
 
