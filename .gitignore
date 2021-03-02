@@ -1,2 +1,2 @@
 *.c
-ignoredfolder\
+folder1/ignored folder/fileinignorefolder.txt
